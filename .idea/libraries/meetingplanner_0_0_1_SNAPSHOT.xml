@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="meetingplanner-0.0.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/meetingplanner/meetingplanner/target/meetingplanner-0.0.1-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
