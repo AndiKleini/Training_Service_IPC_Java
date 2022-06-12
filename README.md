@@ -16,7 +16,7 @@ Before you can watch the communication between the service you have to bring up 
 Move to the folder ./Training_Service_IPC_Java/timeslot/timeslot and launch the spring boot api with "mvn spring-boot:run".
 
 You can test the api with 
-http://localhost:8081/meeting/plan/ispossible?attendees=1,2&from=2022-06-11T15:43&to=2022-06-11T18:53
+http://localhost:8080/timeslot/1?from=2022-06-11T15:43&to=2022-06-11T18:53
 and you will receive:
 ```JSON
 [
